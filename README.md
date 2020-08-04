@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm Alex Michelon
 
 An enthusiast on how technology can help people.
+
+LinkedIn: linkedin.com/in/alexmichelon
 <!--
 **alexmichelon/alexmichelon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
