@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Alex Michelon
 
-An enthusiast on how technology can help people.
+An enthusiast on how technology can to resolve problems.
 
 LinkedIn: linkedin.com/in/alexmichelon
 <!--
